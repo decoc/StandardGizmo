@@ -1,7 +1,8 @@
-Name
+StandardGizmo
 ====
 
-![イメージ図](https://user-images.githubusercontent.com/12431632/33119469-7909b084-cfb2-11e7-82f7-911623598cdd.png)
+![image](https://user-images.githubusercontent.com/12431632/33120625-027c2984-cfb6-11e7-8845-2dc0ceba467c.png)
+![image](https://user-images.githubusercontent.com/12431632/33120648-1846cd8c-cfb6-11e7-9108-8cd18f38ec0a.png)
 
 ## Description
 HoloLens向けのUnity Likeなオブジェクト操作系です
