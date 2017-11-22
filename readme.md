@@ -1,7 +1,7 @@
 Name
 ====
 
-https://user-images.githubusercontent.com/12431632/33119469-7909b084-cfb2-11e7-82f7-911623598cdd.png
+![イメージ図](https://user-images.githubusercontent.com/12431632/33119469-7909b084-cfb2-11e7-82f7-911623598cdd.png)
 
 ## Description
 HoloLens向けのUnity Likeなオブジェクト操作系です
@@ -17,7 +17,7 @@ ExternalからPackageをインストールしてください。
 2. StandardGizmo/Scripts/StandardGizmoTargetを操作したいオブジェクトにアタッチする
 
 3. パラメータの見方
-https://user-images.githubusercontent.com/12431632/33119067-2e6d4f1e-cfb1-11e7-8b37-60fdb2aa548c.png
+![パラメータ](https://user-images.githubusercontent.com/12431632/33119067-2e6d4f1e-cfb1-11e7-8b37-60fdb2aa548c.png)
 
 -Is Static Scale: ギズモを固定サイズにするかどうか
 -Mover: MovementAxis Prefabを指定
@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/12431632/33119067-2e6d4f1e-cfb1-11e7-8
 -roll,yaw,pitch Color: 各回転リングの色
 
 ## Install
-(https://github.com/tattichan/StandardGizmo/blob/master/External/StandardGizomo.unitypackage)
+https://github.com/tattichan/StandardGizmo/blob/master/External/StandardGizomo.unitypackage
 
 ## Licence
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
