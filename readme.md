@@ -35,7 +35,7 @@ Rot Dragging Color: ドラッグ中のリングの色
 roll,yaw,pitch Color: 各回転リングの色
 
 ## Install
-https://github.com/tattichan/StandardGizmo/blob/master/External/StandardGizomo.unitypackage
+https://github.com/tattichan/StandardGizmo/blob/master/External
 
 ## Licence
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
