@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardGizmo", "StandardGizmo.csproj", "{A0A144BC-E668-1511-90B5-3595146A1109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardGizmo.Editor", "StandardGizmo.Editor.csproj", "{F89D0861-7601-84CA-C785-D5049D5936E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A144BC-E668-1511-90B5-3595146A1109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A144BC-E668-1511-90B5-3595146A1109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A144BC-E668-1511-90B5-3595146A1109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A144BC-E668-1511-90B5-3595146A1109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89D0861-7601-84CA-C785-D5049D5936E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89D0861-7601-84CA-C785-D5049D5936E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89D0861-7601-84CA-C785-D5049D5936E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89D0861-7601-84CA-C785-D5049D5936E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
