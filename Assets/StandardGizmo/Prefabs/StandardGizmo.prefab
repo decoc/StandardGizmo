@@ -55,20 +55,23 @@ MonoBehaviour:
   IsDraggingEnabled: 1
   IsStaticScale: 1
   mover: {fileID: 1896495293518864, guid: 356b3162d4e464449ab583bfab407ea0, type: 2}
-  movementLerpSpeed: 0.5
+  movementLerpSpeed: 0.2
   arrowScale: 1.5
   movHoverScale: 1.5
   useNegativeAxis: 1
-  movDraggingColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  movDraggingColor: {r: 1, g: 0.60784316, b: 0, a: 1}
   xColor: {r: 1, g: 0, b: 0, a: 1}
   yColor: {r: 0, g: 1, b: 0, a: 1}
   zColor: {r: 0, g: 0, b: 1, a: 1}
+  IsDraggingMover: 0
   rotator: {fileID: 1201471003779824, guid: 0a01434fb5db4d2439ba588d6a9ac457, type: 2}
   rotationLerpSpeed: 1
   ringWidth: 2
-  ringDiameter: 1.2
+  ringDiameter: 0.8
   rotHoverScale: 1.5
-  rotDraggingColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  rollColor: {r: 1, g: 0, b: 0, a: 1}
-  yawColor: {r: 0, g: 0, b: 1, a: 1}
-  pitchColor: {r: 0, g: 1, b: 0, a: 1}
+  rotDraggingColor: {r: 1, g: 0.60784316, b: 0, a: 1}
+  rollColor: {r: 1, g: 0, b: 1, a: 1}
+  yawColor: {r: 0, g: 1, b: 1, a: 1}
+  pitchColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  IsDraggingRotator: 0
+  Center: {x: 0, y: 0, z: 0}
