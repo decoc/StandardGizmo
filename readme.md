@@ -12,12 +12,12 @@ MixedRealityToolkit 2017.1.2
 ## Usage
 ExternalからPackageをインストールしてください。
 
-1. StandardGizmo/Prefabs/StandardGizomoをシーンに配置する。
+1. StandardGizmo/Prefabs/StandardGizomoをシーンに配置する。  
 
-2. StandardGizmo/Scripts/StandardGizmoTargetを操作したいオブジェクトにアタッチする
+2. StandardGizmo/Scripts/StandardGizmoTargetを操作したいオブジェクトにアタッチする  
 
-3. パラメータの見方
-![パラメータ](https://user-images.githubusercontent.com/12431632/33119067-2e6d4f1e-cfb1-11e7-8b37-60fdb2aa548c.png)
+3. パラメータの見方  
+![パラメータ](https://user-images.githubusercontent.com/12431632/33119067-2e6d4f1e-cfb1-11e7-8b37-60fdb2aa548c.png)  
 
 Is Static Scale: ギズモを固定サイズにするかどうか  
 Mover: MovementAxis Prefabを指定  
